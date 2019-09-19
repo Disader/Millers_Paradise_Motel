@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta
+Assets/TextMesh Pro/Examples & Extras/Materials.meta
+Assets/TextMesh Pro/Examples & Extras/Textures.meta
+Assets/TextMesh Pro/Examples & Extras/Scripts.meta
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Examples & Extras/Prefabs.meta
+Assets/TextMesh Pro/Examples & Extras/Sprites.meta
+Assets/TextMesh Pro/Examples & Extras/Resources.meta

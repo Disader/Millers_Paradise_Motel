@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a4bc8fb21cec3a4fbcc538dad6245a0, type: 3}
+  m_Name: LibroRegistroPickUp
+  m_EditorClassIdentifier: 
+  ID: 07
+  icon: {fileID: 21300000, guid: 001f34d10f4f24c4793249cab3e301b9, type: 3}
+  objName: Libro de Registro
+  description: "Clientes hospedados el 15 de octubre de 1983: Alberto Rodriguez, Roberto
+    Fern\xE1ndez, Carlos P\xE9rez, Cristina Gim\xE9nez, Amelia P\xE9rez, Marta Soria.\r"
+  objType: 1

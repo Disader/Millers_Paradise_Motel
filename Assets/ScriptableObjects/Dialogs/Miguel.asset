@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ad0608a00c3f8b499723f7a4c8d1dc1, type: 3}
+  m_Name: Miguel
+  m_EditorClassIdentifier: 
+  ID: 02
+  dialogs:
+  - jsonAsset: {fileID: 4900000, guid: d8012b13fe3cd544f96f9bd8f83a4185, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0
+  - jsonAsset: {fileID: 4900000, guid: a5ea9f79b77ed244b826fa69db04b962, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 1
+  - jsonAsset: {fileID: 4900000, guid: cd93e7f16946284419a3e517a7d23e58, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0
+  - jsonAsset: {fileID: 4900000, guid: 62a4b12eda759894e97da26aea118309, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 1
+  - jsonAsset: {fileID: 4900000, guid: c4f670443931e284abf345e4cbe9c2c3, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0
+  - jsonAsset: {fileID: 4900000, guid: be91bde6a9cbb7940bfd4a35d974cb50, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0
+  - jsonAsset: {fileID: 4900000, guid: cd93e7f16946284419a3e517a7d23e58, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0

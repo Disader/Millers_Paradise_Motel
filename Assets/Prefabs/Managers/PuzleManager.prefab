@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8995536023738541901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8995536023738541903}
+  - component: {fileID: 8995536023738541900}
+  m_Layer: 0
+  m_Name: PuzleManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &8995536023738541903
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8995536023738541901}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8995536023738541900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8995536023738541901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e717e37955a0dd4a97cf28a83e8d726, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingEvent: {fileID: 0}
+  puzzlesList:
+  - puzzle: {fileID: 11400000, guid: c534fc6f3d521284eb9f9acb3ab44ce2, type: 2}
+    changesAtEnd:
+      objectsToChange:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  - puzzle: {fileID: 11400000, guid: 76c4c35f5aebe9b4695942c6b2d3fb0f, type: 2}
+    changesAtEnd:
+      objectsToChange:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  - puzzle: {fileID: 11400000, guid: 54728bfd3f14cc440a37edb8b74c9785, type: 2}
+    changesAtEnd:
+      objectsToChange: []
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  - puzzle: {fileID: 11400000, guid: acbd41c95fc1c9643be4d6e1e78109d4, type: 2}
+    changesAtEnd:
+      objectsToChange:
+      - {fileID: 0}
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  - puzzle: {fileID: 11400000, guid: 7f9efccd736114d47ab752299c9c1011, type: 2}
+    changesAtEnd:
+      objectsToChange:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  - puzzle: {fileID: 11400000, guid: 2ec282543a619eb4781496c176c9235f, type: 2}
+    changesAtEnd:
+      objectsToChange:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  - puzzle: {fileID: 11400000, guid: 5083a88986ace5341a5387a392cc66da, type: 2}
+    changesAtEnd:
+      objectsToChange: []
+      dialogsToChange: []
+      NPCWhoChangeFollowing: []
+      endEvent: {fileID: 0}
+      doorDestination: {fileID: 0}
+  currentPuzzle: 0

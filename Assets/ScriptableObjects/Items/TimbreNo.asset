@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a4bc8fb21cec3a4fbcc538dad6245a0, type: 3}
+  m_Name: TimbreNo
+  m_EditorClassIdentifier: 
+  ID: 06
+  icon: {fileID: 21300000, guid: 0662363e695ea7442ab637fd8c973225, type: 3}
+  objName: Timbre
+  description: No es necesario usar el timbre de nuevo.
+  objType: 0

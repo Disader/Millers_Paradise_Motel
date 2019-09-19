@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ad0608a00c3f8b499723f7a4c8d1dc1, type: 3}
+  m_Name: GeorgeMiller
+  m_EditorClassIdentifier: 
+  ID: 03
+  dialogs:
+  - jsonAsset: {fileID: 4900000, guid: 3b3901efac2f5d2428f8602bb9b2126e, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0
+  - jsonAsset: {fileID: 4900000, guid: 1556ae784998059448f63fbabe815a34, type: 3}
+    objectGivenAtEnd: {fileID: 0}
+    newDialogAtEnd: 0
